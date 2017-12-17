@@ -1,4 +1,5 @@
-# Factmata Frontend App
+# Appuity Frontend App
+http://appuity.ml
 
 ## Prerequisites
 1. node
@@ -9,19 +10,20 @@
 Clone or pull the latest code from this repo.
 
 ```
-cd fmfront_test/frontend
+cd appuity-frontend
 npm install
 ```
 
 # Running realtime server (HMR)
 
 Run the server using following (before running also make sure that the api server is running).
+API Repo: http://github.com/shivekkhurana/appuity-api
 
 ```
 npm run start
 ```
 
-# Build and serve with Django
+# Build
 
 Use the following command to compile the app to `build/` folder. 
 
