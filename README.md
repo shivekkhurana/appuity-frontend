@@ -1,5 +1,4 @@
 # Appuity Frontend App
-http://appuity.ml
 
 ## Prerequisites
 1. node
